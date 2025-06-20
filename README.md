@@ -34,7 +34,7 @@ Hola, soy Ing. Brian Medina Sánchez, Ing: Ingeniería en Tecnologías de la Inf
 
 ## 📈 Estadísticas de GitHub
 
-![Brian Medina Sánchez](https://github-readme-stats.vercel.app/api?username=devbrianmedina&show_icons=true&theme=radical)
+![Brian Medina Sánchez](https://github-readme-stats.vercel.app/api?username=DesarrolloTI18&show_icons=true&theme=radical)
 
 ## 📫 Contacto
 
